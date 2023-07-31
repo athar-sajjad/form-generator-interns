@@ -1,10 +1,12 @@
-Hey, your task is to create a custom form editor.
+Your task is to create a custom form editor.
 
 The fom schema is attached, and so we want an editor to load a schema and be
 able to update it.
 
 A Low Fidelity Prototype is attached. For styling, please use
 [TailwindCSS](https://tailwindcss.com/).
+
+Prototype link - https://clark-form-generator.netlify.app/
 
 ## User Stories
 
