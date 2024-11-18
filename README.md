@@ -6,8 +6,6 @@ able to update it.
 A Low Fidelity Prototype is attached. For styling, please use
 [TailwindCSS](https://tailwindcss.com/).
 
-Prototype link - https://clark-form-generator.netlify.app/
-
 ## User Stories
 
 - User can add a new question, with its' text, short name, and chose its' answer
